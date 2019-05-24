@@ -1,5 +1,5 @@
 {
-    "name": "library/linhchan-timer",
+    "name": "linhchan-timer",
     "type": "library",
     "description": "A timer library",
     "keywords": ["relevant","tags","go","here"],
