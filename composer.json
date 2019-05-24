@@ -1,0 +1,14 @@
+{
+    "name": "master/linhchan-timer",
+    "type": "library",
+    "description": "A timer library",
+    "keywords": ["relevant","tags","go","here"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Linh Van",
+            "email": "vanmylink@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
