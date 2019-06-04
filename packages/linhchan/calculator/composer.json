@@ -1,0 +1,19 @@
+{
+    "name": "linhchan/calculator",
+    "description": "This is my demo package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Linh Chan",
+            "email": "vanmylink@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Linhchan\\Calculator\\": "packages/linhchan/calculator/src"
+        }
+    }
+}
